@@ -46,4 +46,6 @@ return [
     'Disabled' => 'Gesperrt',
     'Highlight all' => 'Alle hervorheben',
     'Age at' => 'Alter auf dem Foto : ',
+    'Missing Birth' => 'Geburt fehlt',
+    'Missing fact Date' => 'Fakt Datum fehlt',
 ];
