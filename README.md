@@ -84,3 +84,11 @@ and if they are dead it will show there age plus there lifeSpan
 
 if person missing date of birth it still you 
 if date missing in fact it tell you
+
+This got me thinking with old Documents that have been scan in you can face-tag them  
+
+make it easyie
+
+![bill](https://github.com/user-attachments/assets/d674d3c3-5e67-44f2-8805-fdcc3af7a65b)
+
+
